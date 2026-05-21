@@ -50,7 +50,7 @@ export default function HomePage() {
         <h1>Hi, I&apos;m <em>Devi</em> 👋</h1>
         <p className="hero-lead">
           Full-stack developer building thoughtful, accessible web experiences.
-          Open to graduate roles in 2025.
+          Open to graduate roles in 2027.
         </p>
         <Link href="/contact" className="hero-cta">Get in touch →</Link>
       </section>
